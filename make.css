@@ -1,0 +1,19 @@
+.message{
+    text-align:center;
+    background-color:aqua;
+    font-size:16px;
+}
+button{
+    padding-right:30px
+        padding-left:40px
+}
+#myProgress{
+    width:100%;
+    background-color: #ddd;
+    padding-right:30px
+}
+#bar{
+    width:2%;
+    height:30px;
+    background-color:green;
+}
