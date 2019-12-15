@@ -1,0 +1,120 @@
+body{
+    font-size:20px;
+    overflow-x:hidden;
+}
+header{
+    background-image:url('images/img7.jpg');
+     background-size:cover;
+    background-repeat:none;
+  height:600px;
+}
+.header-logo {
+    float:left;
+}
+
+.logo{
+    width:auto;
+    height:auto;
+    margin-top:20px;
+    margin-left:20px;
+}
+        
+li{
+    list-style:none;
+    float:right;
+    padding: 49px 30px;
+    display:inline-block;
+}
+.header-list li a{
+    color:white;
+    text-decoration:none;
+    font-size:90%;
+}
+.main-content{
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:50px;
+    padding-bottom:60px;
+}
+.main-content h1{
+    font-size:50px;
+    color:white;
+    letter-spacing:5px;
+}
+.main-content h2{
+    color:white;
+    font-size:40px;
+    letter-spacing:3px;
+}
+ button{
+    text-align: center;
+    cursor:pointer;
+    font-size:20px;
+     }       
+
+.btn:active{
+    box-shadow:none;
+    position:relative;
+    top:9px;
+}
+.btn:hover{
+    background-color:gray;
+}
+.span{
+    
+}
+ form{
+    float:right;
+}
+footer{
+    background-color:lightcyan;
+  height:250px;
+}
+.form{
+    margin:150px
+    padding:px 50px;
+    width:auto;
+   float:left
+}
+.footer-items{
+    
+}
+.login{
+    position:relative;
+    z-index: 1;
+    background-color: ;
+    margin: 30px;
+    text-align:center;
+    padding:20px
+}
+.word{
+     width:
+}
+.message{
+    font-size:20px;
+}
+.login input{
+    outline:1;
+    width: 170px;
+    border: 0;
+    padding-bottom: 8px;
+    font-size:15px;
+    box-sizing:border-box;
+    margin-bottom:7px;
+}
+.butt:hover{
+    background-color:aqua;
+}
+.footer-list li{
+    float:right;
+}
+.wrapper{
+padding-top: 12px
+padding-bottom: 12px
+padding-left: 24px
+padding-right: 24px
+color: white
+display: inline-block
+opacity: 0.8
+}
